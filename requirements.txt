@@ -1,0 +1,33 @@
+# 深度学习基础框架
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+ultralytics==8.0.196
+
+# 图像处理相关
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.0
+
+# GUI开发
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.0
+
+# Web开发框架
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+python-socketio==5.11.1
+Werkzeug==3.0.1
+gevent==23.9.1
+gevent-websocket==0.10.1
+
+# 工具库
+tqdm==4.66.1
+pandas==2.1.1
+PyYAML==6.0.1
+requests==2.31.0
+
+# 开发工具
+pytest==7.4.0
+black==23.3.0
+flake8==6.0.0
