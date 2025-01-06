@@ -1,5 +1,0 @@
-train: /mnt/workspace/ultralytics/data/train/images
-val: /mnt/workspace/ultralytics/data/valid/images
-test: /mnt/workspace/ultralytics/data/test/images
-nc: 3
-names: ['glioma', 'meningioma', 'pituitary']
